@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Fortune Teller</string>
+
+    <string name="st1">You will need to reconfigure Android studio soon.</string>
+    <string name="st2">Adobe will need to update</string>
+    <string name="st3">You will wake up on time this week!</string>
+    <string name="st4">Your success will depend on how many times you try</string>
+    <string name="st5">You will doubt the truth of this fortune.</string>
+    <string name="st6">You will not notice the the second the in this sentence</string>
+    <string name="st7">You will not be able to stop yourself from controlling your breaths manually</string>
+    <string name="st8">Your favorite song will come on the radio this week</string>
+
+</resources>
